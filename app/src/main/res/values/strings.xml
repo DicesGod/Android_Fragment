@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">May17</string>
+    <string name="hellow_world">Hello World</string>
+    <string name="add_fragment">ADD FRAGMENT</string>
+</resources>
